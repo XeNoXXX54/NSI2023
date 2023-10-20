@@ -1,0 +1,16 @@
+body {
+    background-color: #ffdbdd;
+
+}
+
+h1 {
+    font-size: 25px;
+    font-family:"Lucida Console";
+    color:#1a609c;
+    text-align:center;
+    text-decoration-line: underline;
+}
+
+p {
+    font-size:18px;
+}
